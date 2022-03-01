@@ -1,0 +1,47 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "subpkg/pages/search-blog/search-blog",
+          "pathName": "subpkg/pages/search-blog/search-blog",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "subpkg/pages/search-blog/search-blog",
+          "pathName": "subpkg/pages/blog-detail/blog-detail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/hot-video/hot-video",
+          "pathName": "pages/hot-video/hot-video",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "subpkg/pages/video-detail/video-detail",
+          "pathName": "subpkg/pages/video-detail/video-detail",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/hot/hot",
+          "pathName": "pages/hot/hot",
+          "scene": null
+        }
+      ]
+    }
+  }
+}
